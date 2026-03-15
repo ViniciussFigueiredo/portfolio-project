@@ -22,8 +22,8 @@ function Projects() {
                     name="TrufApp"
                     paragraph="O projeto foi criado para ajudar uma pessoa a organizar e calcular suas vendas de trufas. Com o TrufApp, dá para registrar o cliente, a quantidade vendida e o valor total é calculado automaticamente. O sistema também guarda tudo para acompanhar os ganhos do dia, do mês e do ano."
                     image={TruffApp}
-                    repository="https://github.com/ViniiD3v/Convert"
-                    link="https://viniid3v.github.io/Convert/">
+                    repository="https://github.com/ViniciussFigueiredo/trufapp-demo"
+                    link="https://trufapp-front-demo.onrender.com">
                     <div className="card-icon d-flex gap-1">
                         <i class="devicon-react-original"></i>
                         <i class="devicon-typescript-plain"></i>
@@ -35,8 +35,8 @@ function Projects() {
                     name="Refund"
                     paragraph="O Refund é um sistema simples de solicitação de reembolso, onde o usuário pode cadastrar despesas preenchendo nome, valor e categoria. Toda a lógica foi construída com JavaScript puro, junto com HTML e CSS, sem o uso de frameworks ou bibliotecas externas durante meus estudos na plataforma da RocketSeat."
                     image={Refund}
-                    repository="https://github.com/ViniiD3v/Refund"
-                    link="https://viniid3v.github.io/Refund/"
+                    repository="https://github.com/ViniciussFigueiredo/refund"
+                    link="https://viniciussfigueiredo.github.io/refund/"
                     className="mt-5">
                     <div className="card-icon d-flex gap-1">
                         <i class="devicon-javascript-plain"></i>
@@ -49,8 +49,8 @@ function Projects() {
                     name="Convert"
                     paragraph="Convert é um projeto criado durante os estudos na Rocketseat com o objetivo de converter valores do Real (BRL) para Dólar (USD), Euro (EUR) e Libra (GBP). A aplicação utiliza taxas de câmbio fixas e foi desenvolvida para praticar lógica de programação e para desenvolver um contato com a criação de interfaces."
                     image={Convert}
-                    repository="https://github.com/ViniiD3v/Convert"
-                    link="https://viniid3v.github.io/Convert/">
+                    repository="https://github.com/ViniciussFigueiredo/convert"
+                    link="https://viniciussfigueiredo.github.io/convert/">
                     <div className="card-icon d-flex gap-1">
                         <i class="devicon-javascript-plain"></i>
                         <i class="devicon-html5-plain"></i>
