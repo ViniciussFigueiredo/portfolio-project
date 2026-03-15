@@ -1,6 +1,6 @@
 import "./about.css"
 import SubTitle from "../../components/subTitle/subTitle"
-import Perfil from "../../assets/home-images/perfil.png"
+import Perfil from "../../assets/about-images/perfil-about.png"
 
 
 function About() {
