@@ -9,7 +9,7 @@ function Main() {
 
     useEffect(() => {
         const typed = new Typed(el.current, {
-            strings: ['Fullstack developer'],
+            strings: ['Software Engineer'],
             typeSpeed: 75,
             backSpeed: 0,
             loop: false,
@@ -31,7 +31,7 @@ function Main() {
                     <div className="social-midias d-flex pt-lg-3 gap-3">
                         <a target="_blank" href="https://www.linkedin.com/in/viniciussfigueiredo"><i class="bi bi-linkedin"></i></a>
                         <a target="_blank" href="https://github.com/ViniciussFigueiredo"><i class="bi bi-github"></i></a>
-                        <a target="_blank" href="https://drive.google.com/file/d/1T3SUIWveiqTGLxgUhddcjXKlzpz4Tn1O/view?usp=sharing"><i class="bi bi-file-earmark-text-fill"></i></a>
+                        <a target="_blank" href="https://drive.google.com/file/d/1mZ9X6x0vuqf09wm2XBkQs8HJUQHaOuLI/view?usp=sharing"><i class="bi bi-file-earmark-text-fill"></i></a>
                     </div>
                 </div>
             </div>

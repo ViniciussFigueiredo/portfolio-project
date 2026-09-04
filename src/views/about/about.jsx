@@ -18,10 +18,10 @@ function About() {
                             />
                         </div>
                         <h1 className="pt-2">Vinicius Santos Figueiredo</h1>
-                        <p className="about-text pt-4">Sou Desenvolvedor Fullstack, tenho 18 anos, sou natural de São Paulo e estudante de 
-                            Análise e Desenvolvimento de Sistemas na FIAP. Como Desenvolvedor Fullstack em formação, foco meus estudos no ecossistema 
-                            JavaScript, TypeScript, React e Node.js, dedicando-me à criação de interfaces intuitivas, código limpo e soluções escaláveis. 
-                            Utilizo ferramentas como Git e metodologias modernas para organizar meus projetos, sendo movido pelo aprendizado contínuo e pela 
+                        <p className="about-text pt-4">Sou Software Engineer, natural de São Paulo e estudante de 
+                            Análise e Desenvolvimento de Sistemas na FIAP. Como Software Engineer em formação, foco meus estudos no ecossistema 
+                            Java, Spring Boot, JavaScript, TypeScript e ReactJS dedicando-me à criação de interfaces intuitivas, código limpo e soluções escaláveis. 
+                            Utilizo banco de dados relacionais e não relacionais alem ferramentas como Git e GitHub com metodologias modernas para organizar meus projetos, sendo movido pelo aprendizado contínuo e pela 
                             busca por oportunidades que me permita evoluir tecnicamente e contribuir para projetos de impacto em times de alta performance.
                         </p>
                     </div>

@@ -18,27 +18,32 @@ export function Skills() {
                         <p>Techs que uso no dia a dia</p>
                     </div>
                     <div className="d-flex flex-wrap justify-content-center gap-3">
+                        <i class="devicon-java-plain"></i>
+                        <i class="devicon-spring-original"></i>
                         <i class="devicon-react-original"></i>
-                        <i class="devicon-nodejs-plain"></i>
                         <i class="devicon-typescript-plain"></i>
                         <i class="devicon-javascript-plain"></i>
-                        <i class="devicon-mysql-original"></i>
+                        <i class="devicon-postgresql-plain"></i>
+                        <i class="devicon-mongodb-plain"></i>
+                        <i class="devicon-bootstrap-plain"></i>
+                        <i class="devicon-tailwindcss-original"></i>
                         <i class="devicon-html5-plain"></i>
                         <i class="devicon-css3-plain"></i>
-                        <i class="devicon-bootstrap-plain"></i>
                         <i class="devicon-git-plain"></i>
                     </div>
                 </div>
 
                 <div className="techs mt-5">
-                    <p>Outras techs com que já realizei projetos</p>
+                    <p className="w-100 d-flex justify-content-center">Outras techs com que já realizei projetos</p>
                     <div className="d-flex flex-wrap justify-content-center gap-3">
-                        <i class="devicon-mongodb-plain"></i>
+                        <i class="devicon-nodejs-plain"></i>
+                        <i class="devicon-python-plain"></i>
                         <i class="devicon-sass-original"></i>
                         <i class="devicon-vuejs-plain"></i>
                         <i class="devicon-express-original"></i>
-                        <i class="devicon-tailwindcss-original"></i>
+                        <i class="devicon-oracle-original"></i>
                         <i class="devicon-mongoose-original"></i>
+                        <i class="devicon-figma-plain"></i>
                     </div>
                 </div>
             </div>
